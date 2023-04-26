@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "PatrickWho.me"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -111,15 +111,15 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+  # main:
+    # - identifier: categories
+      # name: categories
+      # url: /categories/
+      # weight: 10
+    # - identifier: tags
+      # name: tags
+      # url: /tags/
+      # weight: 20
     # - identifier: example
       # name: patrickwho.me
       # url: https://patrickwho.me
