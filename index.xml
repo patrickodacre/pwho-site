@@ -9,16 +9,6 @@
       <url>https://patrickodacre.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://patrickodacre.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Apr 2023 11:24:40 +0200</lastBuildDate><atom:link href="https://patrickodacre.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://patrickodacre.github.io/docs/test/</link>
-      <pubDate>Wed, 26 Apr 2023 11:24:40 +0200</pubDate>
-      
-      <guid>https://patrickodacre.github.io/docs/test/</guid>
-      <description>This is a test page.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://patrickodacre.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
