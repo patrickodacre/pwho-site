@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PatrickWho.me</title>
-    <link>https://patrickodacre.github.io/</link>
-    <description>Recent content on PatrickWho.me</description>
+    <title>Projects on PatrickWho.me</title>
+    <link>https://patrickodacre.github.io/projects/</link>
+    <description>Recent content in Projects on PatrickWho.me</description>
     <image>
       <title>PatrickWho.me</title>
       <url>https://patrickodacre.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://patrickodacre.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Apr 2023 11:16:25 +0200</lastBuildDate><atom:link href="https://patrickodacre.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 11:16:25 +0200</lastBuildDate><atom:link href="https://patrickodacre.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handmade Games</title>
       <link>https://patrickodacre.github.io/projects/handmade-games/</link>
