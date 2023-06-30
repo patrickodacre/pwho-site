@@ -1,5 +1,5 @@
 ---
-title: "Hackers' Workshop"
+title: "Hackers' Laboratory"
 date: 2023-06-30T11:16:25+02:00
 draft: false
 type: 'landing'
@@ -117,7 +117,7 @@ type: 'landing'
 {{</rawhtml>}}
 
 
-__Hackers' Workshop__ gives you simple tooling to manage a development team or program a full application yourself.
+__Hackers' Laboratory__ gives you simple tooling to manage a development team or program a full application yourself.
 
 You own everything -- All the code. All the infrastructure.
 
@@ -125,13 +125,13 @@ No lock in.
 
 It's all yours.
 
-Your Hacker Workshop offers the tooling and guidance you need to manage the complexities of developing an application, but it doesn't prevent you from getting into the weeds if you want.
+Your Hacker Laboratory offers the tooling and guidance you need to manage the complexities of developing an application, but it doesn't prevent you from getting into the weeds if you want.
 
 You have complete control.
 
 ## Hiring a Developer?
 
-Reduce risk and stress using the tools in your Hacker Workshop.
+Reduce risk and stress using the tools in your Hacker Laboratory.
 
 - easily create small, distinct coding tasks for your devs
 - view clear and concise insights into how your projects are progressing
