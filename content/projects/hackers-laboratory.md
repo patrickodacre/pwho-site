@@ -8,11 +8,11 @@ type: 'landing'
 
 {{<rawhtml>}}
 
-<div class="d-flex align-items justify-content-between" style="margin-bottom: 5rem;">
-	<div class="me-5" style="max-width: 50%">
+<div id="hackers-lab-hero" class="d-flex align-items justify-content-between" style="margin-bottom: 5rem;">
+	<div class="lab-image me-5" style="max-width: 50%">
 		<img src="/hackers-workshop.png">
 	</div>
-	<div class="ms-5">
+	<div class="lab-form ms-5">
 		<h1>Confidence. Control. Independence.</h1>
 		<p>No-code? All-code? <strong>Why not both?</strong></p>
 		<p></p>
