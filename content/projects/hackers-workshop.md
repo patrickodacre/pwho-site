@@ -97,7 +97,7 @@ type: 'landing'
 
                 <h4>Thank you!</h4>
 
-                  <p>You have successfully joined our subscriber list.</p>
+                  <p>You'll be notified when the Beta opens!</p>
 
             </div>
 
